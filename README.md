@@ -1,3 +1,3 @@
 # apna
-my first project
-author -Dristan
+this is my first project
+Author -Dristan
