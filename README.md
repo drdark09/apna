@@ -1,2 +1,3 @@
 # apna
-first project
+my first project
+author -Dristan
